@@ -19,3 +19,5 @@ A list of things some ASIETians wish to learn
 **aswathy sunil**: hacking
 **Revathy Jess**: artifical intelligence, web development
 **sivanjana**: AI and ML
+**Benison S**: ML, NodeJS
+**sravana**: hacking
