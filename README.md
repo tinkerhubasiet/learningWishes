@@ -2,4 +2,7 @@
 A list of things some ASIETians wish to learn
 
 **Jagannath Bhat**: Ruby, ReactJS
-**jyothi krishna p**: AI  c++ web devalopment 
+**neethu.m**: coding, hacking
+**anushkajimmy**: dance, music
+**Anwin**: Web Development, AI Development
+**jyothi krishna p**: AI, C++, Web Development 
