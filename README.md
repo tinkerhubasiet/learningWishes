@@ -17,3 +17,4 @@ A list of things some ASIETians wish to learn
 **seethalakshmi t s**: hacking
 **Ashna Baby**: hacking
 **aswathy sunil**: hacking
+**Revathy Jess**: artifical intelligence, web development
