@@ -5,3 +5,4 @@ A list of things some ASIETians wish to learn
 **neethu.m**: coding, hacking
 **anushkajimmy**: dance, music
 **Anwin**: Web Development, AI Development
+**jyothi krishna p**: AI, C++, Web Development 
