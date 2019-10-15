@@ -2,4 +2,5 @@
 A list of things some ASIETians wish to learn
 
 **Jagannath Bhat**: Ruby, ReactJS
-**anushkajimmy**:dance,music
+**neethu.m**: coding, hacking
+**anushkajimmy**: dance, music
