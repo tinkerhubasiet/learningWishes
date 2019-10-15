@@ -13,3 +13,4 @@ A list of things some ASIETians wish to learn
 **NEHA ANTONY**: GUITAR, MUSIC, COMPUTER CODING
 **musafir ky**: app development, coding
 **Jayakrishnan**: AI, c
+**N Niranjan**: coding
