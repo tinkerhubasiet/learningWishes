@@ -8,3 +8,4 @@ A list of things some ASIETians wish to learn
 **jyothi krishna p**: AI, C++, Web Development 
 **elsa anushka**: music, dance
 **Gopika Jamshy**: Music, Dance
+**Suraj Kumar M**: ML/AI, Cpp, Python
