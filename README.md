@@ -11,3 +11,4 @@ A list of things some ASIETians wish to learn
 **Suraj Kumar M**: ML/AI, Cpp, Python
 **Naisa Rose Shajan**: c++, AI, ML, python, web development
 **NEHA ANTONY**: GUITAR, MUSIC, COMPUTER CODING
+**musafir ky**: app development, coding
