@@ -2,4 +2,6 @@
 A list of things some ASIETians wish to learn
 
 **Jagannath Bhat**: Ruby, ReactJS
-**Anwin**: Web Development,AI Development
+**neethu.m**: coding, hacking
+**anushkajimmy**: dance, music
+**Anwin**: Web Development, AI Development
