@@ -15,3 +15,4 @@ A list of things some ASIETians wish to learn
 **Jayakrishnan**: AI, c
 **N Niranjan**: coding
 **seethalakshmi t s**: hacking
+**Ashna Baby**: hacking
